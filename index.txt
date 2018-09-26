@@ -3,6 +3,5 @@
 </head>
 <body>
 <p>Onur Açan</p>
-<p>Bilgisayar Mühendisliði</p>
 </body>
 </html>
